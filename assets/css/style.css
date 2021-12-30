@@ -42,6 +42,13 @@ body{
     text-align: justify;
 }
 
+/*Destacados*/
+.h-1{
+    height: 14rem;
+}
+
+
+
 @media (max-width: 768px){
     .h-100{
         height: 20rem!important;
