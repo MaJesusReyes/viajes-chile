@@ -10,6 +10,14 @@ body{
     height: 100vh!important;
 }
 
+.bg-success{
+    background-color: cadetblue!important;
+}
+
+.px-6{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
 
 /*Navbar*/
 .navbar-brand{
@@ -44,7 +52,7 @@ body{
 
 /*Destacados*/
 .h-1{
-    height: 14rem;
+    height: 14rem!important;
 }
 
 
